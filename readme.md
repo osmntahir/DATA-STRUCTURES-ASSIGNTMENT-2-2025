@@ -62,8 +62,8 @@ This project is an educational program to visualize a binary tree structure and 
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/osmntahir/DATA-STRUCTURES-ASSIGNTMENT-2-2025.git
+   cd DATA-STRUCTURES-ASSIGNTMENT-2-2025
    ```
 
 2. **Prepare the Input File**:
